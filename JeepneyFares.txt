@@ -1,0 +1,9 @@
+Mamatid,12
+Cabuyao,12
+Sta. Rosa,16
+Binan,16
+Golden City,16
+Pacita MG,20
+San Pedro L.,24
+Muntinlupa,28
+Alabang,32
